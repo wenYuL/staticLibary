@@ -1,0 +1,2 @@
+# staticLibary
+staticLibary
